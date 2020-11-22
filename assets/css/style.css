@@ -24,7 +24,7 @@ h1:hover , h2:hover, h3:hover, h4:hover h5:hover, h6:hover
 }
 /* header area */
 .nav{
-    /* border: 2px solid black; */
+    border: 2px solid black;
     overflow: auto;
     width: 85%;
     margin: 0 auto 0 auto;
